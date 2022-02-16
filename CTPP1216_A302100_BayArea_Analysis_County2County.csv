@@ -1,0 +1,82 @@
+RESIDENCE,State_Resid,County_Resid...3,WORKPLACE,State_Work,County_Work...6,Output,Workers_16p,County_Resid...9,County_Work...10,totalwork_tractsum,share_covered,corr_factor
+"06001 | Alameda County, California",6,1,"06001 | Alameda County, California",6,1,Estimate,467980,1,1,381112,0.8143766827642207,1.2279329960746448
+"06001 | Alameda County, California",6,1,"06013 | Contra Costa County, California",6,13,Estimate,41235,1,13,33565,0.8139929671395659,1.2285118426932817
+"06001 | Alameda County, California",6,1,"06041 | Marin County, California",6,41,Estimate,4615,1,41,3671,0.7954496208017334,1.257150640152547
+"06001 | Alameda County, California",6,1,"06055 | Napa County, California",6,55,Estimate,305,1,55,249,0.8163934426229508,1.2248995983935742
+"06001 | Alameda County, California",6,1,"06075 | San Francisco County, California",6,75,Estimate,99355,1,75,81789,0.8231996376629259,1.2147721576251085
+"06001 | Alameda County, California",6,1,"06081 | San Mateo County, California",6,81,Estimate,37275,1,81,29301,0.7860764587525151,1.272140882563735
+"06001 | Alameda County, California",6,1,"06085 | Santa Clara County, California",6,85,Estimate,73555,1,85,61446,0.8353748895384406,1.197067343683885
+"06001 | Alameda County, California",6,1,"06095 | Solano County, California",6,95,Estimate,1780,1,95,1367,0.7679775280898876,1.302121433796635
+"06001 | Alameda County, California",6,1,"06097 | Sonoma County, California",6,97,Estimate,985,1,97,661,0.6710659898477157,1.4901664145234492
+"06013 | Contra Costa County, California",6,13,"06001 | Alameda County, California",6,1,Estimate,101605,13,1,82509,0.8120564932828109,1.23144141851192
+"06013 | Contra Costa County, California",6,13,"06013 | Contra Costa County, California",6,13,Estimate,289535,13,13,238312,0.8230852919336177,1.2149409177884454
+"06013 | Contra Costa County, California",6,13,"06041 | Marin County, California",6,41,Estimate,8570,13,41,5909,0.6894982497082847,1.4503300050770012
+"06013 | Contra Costa County, California",6,13,"06055 | Napa County, California",6,55,Estimate,1670,13,55,1207,0.7227544910179641,1.3835956917978458
+"06013 | Contra Costa County, California",6,13,"06075 | San Francisco County, California",6,75,Estimate,61090,13,75,48007,0.7858405631036176,1.2725227570979232
+"06013 | Contra Costa County, California",6,13,"06081 | San Mateo County, California",6,81,Estimate,11870,13,81,9413,0.7930075821398483,1.261021990863699
+"06013 | Contra Costa County, California",6,13,"06085 | Santa Clara County, California",6,85,Estimate,14020,13,85,11329,0.8080599144079886,1.2375319975284669
+"06013 | Contra Costa County, California",6,13,"06095 | Solano County, California",6,95,Estimate,7710,13,95,6219,0.8066147859922179,1.2397491558128317
+"06013 | Contra Costa County, California",6,13,"06097 | Sonoma County, California",6,97,Estimate,1115,13,97,772,0.6923766816143497,1.444300518134715
+"06041 | Marin County, California",6,41,"06001 | Alameda County, California",6,1,Estimate,4205,41,1,3434,0.8166468489892984,1.224519510774607
+"06041 | Marin County, California",6,41,"06013 | Contra Costa County, California",6,13,Estimate,1960,41,13,1613,0.8229591836734694,1.2151270923744575
+"06041 | Marin County, California",6,41,"06041 | Marin County, California",6,41,Estimate,81445,41,41,70442,0.8649026950702928,1.1561994264785214
+"06041 | Marin County, California",6,41,"06055 | Napa County, California",6,55,Estimate,505,41,55,457,0.904950495049505,1.1050328227571116
+"06041 | Marin County, California",6,41,"06075 | San Francisco County, California",6,75,Estimate,28885,41,75,24628,0.852622468409209,1.1728520383303558
+"06041 | Marin County, California",6,41,"06081 | San Mateo County, California",6,81,Estimate,2445,41,81,2062,0.8433537832310839,1.1857419980601358
+"06041 | Marin County, California",6,41,"06085 | Santa Clara County, California",6,85,Estimate,1195,41,85,1107,0.9263598326359833,1.079494128274616
+"06041 | Marin County, California",6,41,"06095 | Solano County, California",6,95,Estimate,440,41,95,373,0.8477272727272728,1.1796246648793565
+"06041 | Marin County, California",6,41,"06097 | Sonoma County, California",6,97,Estimate,4500,41,97,3750,0.8333333333333334,1.2
+"06055 | Napa County, California",6,55,"06001 | Alameda County, California",6,1,Estimate,1120,55,1,855,0.7633928571428571,1.3099415204678362
+"06055 | Napa County, California",6,55,"06013 | Contra Costa County, California",6,13,Estimate,1885,55,13,1455,0.7718832891246684,1.29553264604811
+"06055 | Napa County, California",6,55,"06041 | Marin County, California",6,41,Estimate,1280,55,41,1060,0.828125,1.2075471698113207
+"06055 | Napa County, California",6,55,"06055 | Napa County, California",6,55,Estimate,52865,55,55,42886,0.8112361675967086,1.2326866576505153
+"06055 | Napa County, California",6,55,"06075 | San Francisco County, California",6,75,Estimate,1720,55,75,1434,0.8337209302325581,1.199442119944212
+"06055 | Napa County, California",6,55,"06081 | San Mateo County, California",6,81,Estimate,620,55,81,464,0.7483870967741936,1.3362068965517242
+"06055 | Napa County, California",6,55,"06085 | Santa Clara County, California",6,85,Estimate,495,55,85,278,0.5616161616161616,1.7805755395683454
+"06055 | Napa County, California",6,55,"06095 | Solano County, California",6,95,Estimate,4355,55,95,3458,0.7940298507462686,1.2593984962406015
+"06055 | Napa County, California",6,55,"06097 | Sonoma County, California",6,97,Estimate,2630,55,97,1997,0.7593155893536122,1.316975463194792
+"06075 | San Francisco County, California",6,75,"06001 | Alameda County, California",6,1,Estimate,22550,75,1,18219,0.8079379157427938,1.237718864921236
+"06075 | San Francisco County, California",6,75,"06013 | Contra Costa County, California",6,13,Estimate,4100,75,13,3487,0.8504878048780488,1.1757958130197879
+"06075 | San Francisco County, California",6,75,"06041 | Marin County, California",6,41,Estimate,6695,75,41,5873,0.8772218073188947,1.1399625404392986
+"06075 | San Francisco County, California",6,75,"06055 | Napa County, California",6,55,Estimate,235,75,55,150,0.6382978723404256,1.5666666666666667
+"06075 | San Francisco County, California",6,75,"06075 | San Francisco County, California",6,75,Estimate,361120,75,75,296710,0.821638236597253,1.2170806511408445
+"06075 | San Francisco County, California",6,75,"06081 | San Mateo County, California",6,81,Estimate,50400,75,81,41381,0.8210515873015873,1.217950267030763
+"06075 | San Francisco County, California",6,75,"06085 | Santa Clara County, California",6,85,Estimate,27985,75,85,23916,0.8546006789351438,1.1701371466800468
+"06075 | San Francisco County, California",6,75,"06095 | Solano County, California",6,95,Estimate,620,75,95,516,0.832258064516129,1.2015503875968991
+"06075 | San Francisco County, California",6,75,"06097 | Sonoma County, California",6,97,Estimate,955,75,97,806,0.8439790575916231,1.184863523573201
+"06081 | San Mateo County, California",6,81,"06001 | Alameda County, California",6,1,Estimate,12940,81,1,10775,0.8326893353941267,1.2009280742459396
+"06081 | San Mateo County, California",6,81,"06013 | Contra Costa County, California",6,13,Estimate,2075,81,13,1497,0.7214457831325302,1.3861055444221777
+"06081 | San Mateo County, California",6,81,"06041 | Marin County, California",6,41,Estimate,965,81,41,812,0.8414507772020725,1.188423645320197
+"06081 | San Mateo County, California",6,81,"06055 | Napa County, California",6,55,Estimate,125,81,55,48,0.384,2.6041666666666665
+"06081 | San Mateo County, California",6,81,"06075 | San Francisco County, California",6,75,Estimate,84195,81,75,65850,0.7821129520755389,1.2785876993166287
+"06081 | San Mateo County, California",6,81,"06081 | San Mateo County, California",6,81,Estimate,222355,81,81,178112,0.8010253873310696,1.2483998832195473
+"06081 | San Mateo County, California",6,81,"06085 | Santa Clara County, California",6,85,Estimate,61165,81,85,50944,0.8328946292814519,1.2006320665829147
+"06081 | San Mateo County, California",6,81,"06095 | Solano County, California",6,95,Estimate,275,81,95,257,0.9345454545454546,1.0700389105058365
+"06081 | San Mateo County, California",6,81,"06097 | Sonoma County, California",6,97,Estimate,150,81,97,90,0.6,1.6666666666666667
+"06085 | Santa Clara County, California",6,85,"06001 | Alameda County, California",6,1,Estimate,38120,85,1,30915,0.8109916054564533,1.2330583858968138
+"06085 | Santa Clara County, California",6,85,"06013 | Contra Costa County, California",6,13,Estimate,3155,85,13,2273,0.7204437400950872,1.3880334359876816
+"06085 | Santa Clara County, California",6,85,"06041 | Marin County, California",6,41,Estimate,340,85,41,326,0.9588235294117647,1.0429447852760736
+"06085 | Santa Clara County, California",6,85,"06055 | Napa County, California",6,55,Estimate,65,85,55,70,1.0769230769230769,0.9285714285714286
+"06085 | Santa Clara County, California",6,85,"06075 | San Francisco County, California",6,75,Estimate,15470,85,75,12074,0.7804783451842275,1.2812655292363757
+"06085 | Santa Clara County, California",6,85,"06081 | San Mateo County, California",6,81,Estimate,46430,85,81,38374,0.8264914925694594,1.2099338093500809
+"06085 | Santa Clara County, California",6,85,"06085 | Santa Clara County, California",6,85,Estimate,791635,85,85,653838,0.8259336689257044,1.2107509811298822
+"06085 | Santa Clara County, California",6,85,"06095 | Solano County, California",6,95,Estimate,190,85,95,184,0.968421052631579,1.0326086956521738
+"06085 | Santa Clara County, California",6,85,"06097 | Sonoma County, California",6,97,Estimate,485,85,97,285,0.5876288659793815,1.7017543859649122
+"06095 | Solano County, California",6,95,"06001 | Alameda County, California",6,1,Estimate,10085,95,1,8329,0.8258800198314328,1.2108296314083324
+"06095 | Solano County, California",6,95,"06013 | Contra Costa County, California",6,13,Estimate,19485,95,13,15730,0.8072876571721838,1.2387158296249206
+"06095 | Solano County, California",6,95,"06041 | Marin County, California",6,41,Estimate,5240,95,41,4155,0.7929389312977099,1.2611311672683514
+"06095 | Solano County, California",6,95,"06055 | Napa County, California",6,55,Estimate,12660,95,55,10148,0.8015797788309637,1.247536460386283
+"06095 | Solano County, California",6,95,"06075 | San Francisco County, California",6,75,Estimate,10150,95,75,7838,0.7722167487684729,1.2949732074508804
+"06095 | Solano County, California",6,95,"06081 | San Mateo County, California",6,81,Estimate,2195,95,81,1597,0.7275626423690205,1.374452097683156
+"06095 | Solano County, California",6,95,"06085 | Santa Clara County, California",6,85,Estimate,1690,95,85,1099,0.6502958579881657,1.537761601455869
+"06095 | Solano County, California",6,95,"06095 | Solano County, California",6,95,Estimate,111510,95,95,90710,0.8134696439781186,1.2293021717561459
+"06095 | Solano County, California",6,95,"06097 | Sonoma County, California",6,97,Estimate,2935,95,97,2304,0.7850085178875639,1.2738715277777777
+"06097 | Sonoma County, California",6,97,"06001 | Alameda County, California",6,1,Estimate,2320,97,1,1892,0.8155172413793104,1.2262156448202959
+"06097 | Sonoma County, California",6,97,"06013 | Contra Costa County, California",6,13,Estimate,965,97,13,744,0.7709844559585493,1.2970430107526882
+"06097 | Sonoma County, California",6,97,"06041 | Marin County, California",6,41,Estimate,16105,97,41,13620,0.8457000931387768,1.1824522760646108
+"06097 | Sonoma County, California",6,97,"06055 | Napa County, California",6,55,Estimate,4165,97,55,3510,0.8427370948379351,1.1866096866096867
+"06097 | Sonoma County, California",6,97,"06075 | San Francisco County, California",6,75,Estimate,6870,97,75,5672,0.8256186317321689,1.211212976022567
+"06097 | Sonoma County, California",6,97,"06081 | San Mateo County, California",6,81,Estimate,1010,97,81,864,0.8554455445544554,1.1689814814814814
+"06097 | Sonoma County, California",6,97,"06085 | Santa Clara County, California",6,85,Estimate,1160,97,85,851,0.7336206896551725,1.36310223266745
+"06097 | Sonoma County, California",6,97,"06095 | Solano County, California",6,95,Estimate,885,97,95,693,0.7830508474576271,1.277056277056277
+"06097 | Sonoma County, California",6,97,"06097 | Sonoma County, California",6,97,Estimate,201875,97,97,171322,0.8486538699690402,1.1783366993147406
